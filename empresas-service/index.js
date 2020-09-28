@@ -8,5 +8,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(3003, () => {
-    console.log('Rodando na porta 3003 teste')
+    console.log('Rodando na porta 3003')
 })
